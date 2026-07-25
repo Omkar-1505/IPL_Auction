@@ -31,8 +31,6 @@ core_config
 ipl_ball_by_ball.csv
 IPL_Match_Highlights_Commentary.csv
 player_stats.csv
-fielding_analysis.csv
-players.csv
 
 #Testing by CLI
 test.py 
