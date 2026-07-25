@@ -428,11 +428,49 @@ const WarRoom = ({ playersDB }) => {
       poolToDraftFrom = mySelected15.map(name => playersDB.find(p => p.Player_Name === name)).filter(Boolean);
     }
     
-    // AI Drafting Algorithm: Balances Wickets and Strike Rate
+    // AI Drafting Algorithm: Balances Roles, Wickets, Strike Rate, Stadium, and H2H Context
+    const calculateDynamicScore = (player) => {
+      let baseScore = 0;
+      const sr = Number(player.Overall_Bat_SR) || 0;
+      const wickets = Number(player.Wickets) || 0;
+      const econ = Number(player.Overall_Bowl_Econ) || 9.0;
+      const role = player.Role || 'Player';
+
+      // Base historical score normalized by Role to prevent Bowlers from taking all spots
+      if (role === 'Batsman' || role.includes('Wicket')) {
+        baseScore = sr * 2; // e.g., SR 150 = 300 points
+      } else if (role === 'Bowler') {
+        baseScore = (wickets * 1.5) + ((10 - econ) * 30); // Rewards high wickets and low economy
+      } else { // All-Rounders get a balanced mix
+        baseScore = sr + (wickets * 1.5);
+      }
+      
+      // 1. Stadium Tactical Boost
+      if (stadium !== 'Neutral Venue' && player.Best_to_Worst_Venues && player.Best_to_Worst_Venues.includes(stadium)) {
+        baseScore += 300; // Big boost for home ground advantage
+      }
+
+      // 2. Head-to-Head Opponent Context
+      if (oppSelected15.length > 0) {
+        // PENALTY: The opponent has drafted this batter's absolute worst nightmare
+        if (player.Primary_Threat_Bowler && oppSelected15.includes(player.Primary_Threat_Bowler)) {
+          baseScore -= 250; 
+        }
+        
+        // BOOST: This bowler is a tactical nightmare for someone in the opponent's squad!
+        oppSelected15.forEach(oppName => {
+          const oppProfile = playersDB.find(db => db.Player_Name === oppName);
+          if (oppProfile && oppProfile.Primary_Threat_Bowler === player.Player_Name) {
+            baseScore += 400; // Tactical Counter-measure deployed
+          }
+        });
+      }
+
+      return baseScore;
+    };
+
     const sorted = [...poolToDraftFrom].sort((a, b) => {
-       const scoreA = (Number(a.Overall_Bat_SR) || 0) + (Number(a.Wickets) || 0)*10;
-       const scoreB = (Number(b.Overall_Bat_SR) || 0) + (Number(b.Wickets) || 0)*10;
-       return scoreB - scoreA;
+       return calculateDynamicScore(b) - calculateDynamicScore(a);
     });
 
     const playingXI = sorted.slice(0, 11);
