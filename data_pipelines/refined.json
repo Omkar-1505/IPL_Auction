@@ -1,0 +1,262 @@
+{
+"Virat Kohli": {
+"pace": "Exploit his vulnerability to balls angling away outside off stump. Bowl a 4th-stump channel with late away movement.",
+"spin": "Use left-arm orthodox sliding across him. Deny him the flick through mid-wicket to build dot-ball pressure.",
+"bat_against": "Not a regular bowler.",
+"tape": "Classical anchor. Squeeze his scoring zones on the off-side and force him to take aerial risks against spin."
+},
+"Rohit Sharma": {
+"pace": "Attack the front pad immediately. Highly vulnerable to sharp inswinging deliveries in the first 2 overs.",
+"spin": "Deploy leg-spin turning away from the bat. Limit his ability to sweep or slog over mid-wicket.",
+"bat_against": "Not a regular bowler.",
+"tape": "Lethal puller of the ball. Do NOT bowl short unless it is directed sharply at the armpit."
+},
+"MS Dhoni": {
+"pace": "Cannot quickly pivot to play the short ball anymore. Bowl extreme pace directed precisely at his ribcage.",
+"spin": "Bowl wide, flat darts outside off stump. Do not bowl into his pads.",
+"bat_against": "Not a regular bowler.",
+"tape": "Legendary finisher. Deny him the helicopter shot by attacking the body with raw pace."
+},
+"Suryakumar Yadav": {
+"pace": "Pack the off-side field and execute wide yorkers consistently. Deny him the ability to shuffle inside the line.",
+"spin": "Bowl flat, quick deliveries wide of off-stump. Do not offer flight.",
+"bat_against": "Not a regular bowler.",
+"tape": "360-degree threat. Force him to hit through the off-side by strictly adhering to the wide tramline."
+},
+"Jasprit Bumrah": {
+"pace": "Target the stumps with raw pace if he bats.",
+"spin": "Bowl flat and straight.",
+"bat_against": "Play him out securely. Do not take risks against his unique release point. Target the other bowlers in the attack.",
+"tape": "The most lethal bowler in the world. Respect his 4 overs and attack the weak links."
+},
+"Travis Head": {
+"pace": "Highly susceptible to express pace swinging back into the pads. Target the base of middle and leg stump.",
+"spin": "Bowl pace-off cutters and slow left-arm orthodox to force him to generate his own power.",
+"bat_against": "Respect the pitch if it's turning, otherwise attack his part-time off-spin.",
+"tape": "Devastating in the powerplay. Don't give him width outside off. Attack the stumps with swing."
+},
+"Heinrich Klaasen": {
+"pace": "Bogged down by extremely wide, slow off-cutters and wide bouncers well outside his arc.",
+"spin": "Do NOT bowl spin to him between overs 12-16. He will destroy it.",
+"bat_against": "Not a regular bowler.",
+"tape": "The best spin-hitter in the world. Rely entirely on pace-off variations outside the off-stump."
+},
+"Andre Russell": {
+"pace": "Commit fully to the extreme wide yorker or target the badge of the helmet. No half-measures.",
+"spin": "Bowl leg-spin or mystery spin turning away from his hitting arc.",
+"bat_against": "Slashes hard at wide balls. Wait for the pace-off cutter dug into the pitch.",
+"tape": "Clears his front leg. Pack the off-side boundary and force him to reach for wide deliveries."
+},
+"Rishabh Pant": {
+"pace": "Loses balance when reaching for extreme wide deliveries from over the wicket.",
+"spin": "Struggles to generate power against mystery spin turning away on slow pitches.",
+"bat_against": "Not a regular bowler.",
+"tape": "Highly unorthodox. Pack the off-side and strictly target the wide guideline."
+},
+"Sanju Samson": {
+"pace": "Bowl test-match lengths in the channel outside off. He often induces his own false shot due to high intent.",
+"spin": "Toss the ball up wide outside off-stump to invite the risky lofted drive.",
+"bat_against": "Not a regular bowler.",
+"tape": "Incredibly gifted but impatient. Build dot-ball pressure early to force a mistake."
+},
+"Hardik Pandya": {
+"pace": "Struggles with back-of-length deliveries cramping his room. Bowl into the pitch at his lower chest.",
+"spin": "Impatient against high-quality wrist spin tossed up wide.",
+"bat_against": "Exploit his lack of raw pace. Look for the straight drive or slog sweep.",
+"tape": "Pivotal all-rounder. Tie him down with hard lengths to force a frustrated slog."
+},
+"Shubman Gill": {
+"pace": "Lured into false drives by late outswing. Bowl full on the 4th stump line.",
+"spin": "Bowl tight, flat lines on the stumps. He takes time to accelerate against spin.",
+"bat_against": "Not a regular bowler.",
+"tape": "Elegant timer. Squeeze his scoring zones on the off-side and force him to muscle the ball."
+},
+"KL Rahul": {
+"pace": "Over-cautious against extreme pace bouncers directed at the badge in the powerplay.",
+"spin": "Gets bogged down by wrist spin in the middle overs. Bowl googlies outside off.",
+"bat_against": "Not a regular bowler.",
+"tape": "Exceptional anchor but can be tied down. Use aggressive pace early to stifle his strike rate."
+},
+"Sunil Narine": {
+"pace": "Cannot handle express pace directed straight at the armpit or throat.",
+"spin": "Do not bowl spin to him in the powerplay.",
+"bat_against": "Struggles to turn the ball on flat decks. Play the ball late and look for singles.",
+"tape": "Pinch-hitter and mystery spinner. Bounce him out with the bat, play him cautiously with the ball."
+},
+"Rashid Khan": {
+"pace": "Slashes wildly at wide pace-off deliveries.",
+"spin": "Can be beaten by flighted deliveries if forced to step out.",
+"bat_against": "Watch his wrist closely. Do not pre-meditate the sweep; play him off the pitch.",
+"tape": "Elite T20 spinner. Treat him as a 4-over survival test and attack the other bowlers."
+},
+"Ruturaj Gaikwad": {
+"pace": "Tentative against sharp inswing in the first two overs. Target the front pad.",
+"spin": "Gets tucked up by left-arm orthodox sliding into him.",
+"bat_against": "Not a regular bowler.",
+"tape": "Classical timer. Deny him width and attack his body with high pace."
+},
+"Yashasvi Jaiswal": {
+"pace": "Tends to fetch wide deliveries, leading to sliced catches. Bowl wide of off-stump.",
+"spin": "Bowl off-spin dragging him wide outside off stump.",
+"bat_against": "Not a regular bowler.",
+"tape": "Explosive opener. Feed him wide deliveries and pack the point and cover boundaries."
+},
+"Rinku Singh": {
+"pace": "Incredible at the death, but can be starved of strike by firing wide yorkers past the tramline.",
+"spin": "Keep the ball turning away from his hitting arc.",
+"bat_against": "Not a regular bowler.",
+"tape": "Elite finisher. Commit fully to the wide yorker. Do not miss on the pads under any circumstances."
+},
+"Nicholas Pooran": {
+"pace": "Struggles to generate power on short, slow bouncers angled across his body.",
+"spin": "Vulnerable to mystery spin turning away from the bat.",
+"bat_against": "Not a regular bowler.",
+"tape": "Destructive hitter. Force him to hit square of the wicket using pace-off variations."
+},
+"Mitchell Starc": {
+"pace": "Target the stumps with full, fast deliveries if he bats.",
+"spin": "Bowl flat and straight.",
+"bat_against": "Beware of the lethal inswinging yorker. See off his first spell without taking risks.",
+"tape": "Premium strike bowler. Play out his early swing and capitalize in his later spells if he loses rhythm."
+},
+"Trent Boult": {
+"pace": "Bowl short and at the body.",
+"spin": "Keep it simple and at the stumps.",
+"bat_against": "Watch out for the trademark first-over inswinger to the right-hander. Play with a straight bat.",
+"tape": "Powerplay specialist. Do not chase wide deliveries early; protect your wickets in the first 6 overs."
+},
+"Matheesha Pathirana": {
+"pace": "Attack with sharp bouncers.",
+"spin": "Bowl flat darts.",
+"bat_against": "Pick his release point late. Sit deep in the crease and wait for the missed yorker at the death.",
+"tape": "Sling-action death specialist. Focus entirely on surviving his toe-crushing yorkers."
+},
+"Shivam Dube": {
+"pace": "Completely freezes against sharp, fast bouncers directed at his helmet. Attack the body.",
+"spin": "Do NOT bowl spin to him in the middle overs.",
+"bat_against": "Medium pacer. Exploit his lack of raw pace by stepping out of the crease.",
+"tape": "Spin-destroyer. Bring your fastest bowler back into the attack immediately when he walks out."
+},
+"Sam Curran": {
+"pace": "Struggles to get underneath low, dipping full tosses and yorkers at the death.",
+"spin": "Bowl off-spin turning away from the left-hander.",
+"bat_against": "Exploit his lack of extreme pace. Look to hit his back-of-length slower balls down the ground.",
+"tape": "Smart all-rounder. Respect his cutters but attack his standard length deliveries."
+},
+
+"Sachin Tendulkar": {
+"pace": "Vulnerable to sharp inswing in his early innings. Pitch it up and look for LBW.",
+"spin": "Playful against left-arm spin, can be drawn out of his crease with flight.",
+"bat_against": "Not a regular bowler.",
+"tape": "The Master. Avoid giving him width outside off. Build dot ball pressure to force a rare mistake."
+},
+"AB de Villiers": {
+"pace": "Loses balance reaching for extreme wide yorkers outside off-stump at the death.",
+"spin": "Can be tucked up by left-arm orthodox sliding into his pads early on.",
+"bat_against": "Not a regular bowler.",
+"tape": "Mr. 360. Do not bowl length anywhere near the stumps. Commit fully to the wide tramline."
+},
+"Chris Gayle": {
+"pace": "Struggles with express pace short balls aimed directly at his ribcage. He cannot pivot quickly.",
+"spin": "Bowl off-spin darting into his pads or wide of off-stump to restrict his swing arc.",
+"bat_against": "Part-time off-spinner. Attack him straight down the ground.",
+"tape": "The Universe Boss. Do not pitch the ball up in his hitting arc. Cramp him with extreme pace at the body."
+},
+"Adam Gilchrist": {
+"pace": "Vulnerable to around-the-wicket seamers angling the ball into his pads.",
+"spin": "Attack his stumps with off-spin from round the wicket.",
+"bat_against": "Not a regular bowler.",
+"tape": "Explosive opener. Deny him width to cut and slash. Keep the field up on the leg side."
+},
+"Virender Sehwag": {
+"pace": "Lacks footwork early. Bowl fast, full outswingers to induce the outside edge.",
+"spin": "Bowl flat and wide of off-stump to force him to reach.",
+"bat_against": "Part-time off-spinner. Exploit his lack of variations.",
+"tape": "Hand-eye coordination genius. Pitch it up with swing early; do not bowl short as he cuts fiercely."
+},
+"Gautam Gambhir": {
+"pace": "Tends to poke at deliveries angling across him outside off-stump.",
+"spin": "Use off-spin turning into him to cramp his inside-out shots.",
+"bat_against": "Not a regular bowler.",
+"tape": "Anchoring lefty. Keep the ball outside his off-stump on a good length and invite the false drive."
+},
+"Suresh Raina": {
+"pace": "Notorious weakness against aggressive short-pitch bowling aimed at the throat.",
+"spin": "Excellent against spin. Bowl flat darts to restrict boundaries.",
+"bat_against": "Part-time off-spinner. Look to rotate strike.",
+"tape": "Mr. IPL. Bring on your fastest bowler immediately and enforce a heavy short-ball barrage."
+},
+"Lasith Malinga": {
+"pace": "Target the stumps with full, fast deliveries if he bats.",
+"spin": "Bowl flat and straight.",
+"bat_against": "Watch for the slinging, dipping yorker. Play him off the pitch and respect his death overs.",
+"tape": "The greatest death bowler. Do not take unnecessary risks against his yorkers; attack the other bowlers."
+},
+"Shane Watson": {
+"pace": "Highly vulnerable to sharp inswing targeting the front pad. Prime LBW candidate.",
+"spin": "Can be beaten in flight by high-quality wrist spin.",
+"bat_against": "Struggles to generate express pace. Look to attack his slower cutters.",
+"tape": "Powerful all-rounder. Attack his pads early with the new ball before he settles."
+},
+"Kieron Pollard": {
+"pace": "Struggles to get underneath extreme wide yorkers. Slashes hard and misses.",
+"spin": "Vulnerable to sharp googlies turning back into his body.",
+"bat_against": "Relies on dipping off-cutters. Wait on the back foot to punch him down the ground.",
+"tape": "Brute force finisher. Do not bowl at the stumps at the death. Commit entirely to the wide line."
+},
+
+"Rahul Tewatia": {
+"pace": "Struggles against extreme pace targeted at the badge of the helmet.",
+"spin": "He heavily pre-meditates the sweep shot. Bowl fast and flat directly on the stumps.",
+"bat_against": "Play his leg-spin late. Look for gaps rather than aerial shots.",
+"tape": "Clutch finisher. Do not give the ball air when he bats. Fire darts into his pads."
+},
+"Jake Fraser-McGurk": {
+"pace": "Hits blindly through the line of the ball. Highly vulnerable to dipping off-cutters and pace-off variations.",
+"spin": "Toss the ball up extremely wide to force him to lose his shape.",
+"bat_against": "Not a regular bowler.",
+"tape": "Ultra-aggressive hitter. Take all the pace off the ball and let him swing himself out of form."
+},
+"Mayank Yadav": {
+"pace": "Target the stumps with raw pace if he bats.",
+"spin": "Bowl flat and straight.",
+"bat_against": "Express pace (150km/h+). Use his pace to find boundaries behind square; do not try to over-hit him.",
+"tape": "Pace sensation. Play him late and use his extreme velocity to your advantage."
+},
+"Abhishek Sharma": {
+"pace": "Tends to slash hard at deliveries angling across him. Bowl back of a length outside off.",
+"spin": "Vulnerable to high-quality off-spin dragging him out of his crease.",
+"bat_against": "Part-time spinner. Target him to break his rhythm.",
+"tape": "Aggressive opener. Angle the ball across him with high pace and pack the point boundary."
+},
+"Sai Sudharsan": {
+"pace": "Takes time to accelerate. Bowl tight lines to frustrate him.",
+"spin": "Can get bogged down by tight left-arm orthodox sliding across him.",
+"bat_against": "Not a regular bowler.",
+"tape": "Classical anchor. Choke his strike rate early to force a panicked shot later in the innings."
+},
+"Tilak Varma": {
+"pace": "Can be tucked up by high-pace back-of-a-length deliveries aimed at the ribcage.",
+"spin": "Struggles slightly against mystery spin turning away from the left-hander.",
+"bat_against": "Part-time off-spin. Respect the pitch if it's turning.",
+"tape": "Solid middle-order bat. Cramp his room with hard lengths to prevent him from freeing his arms."
+},
+"Ashutosh Sharma": {
+"pace": "Exceptional at scooping and sweeping pace. You MUST bowl fast bouncers to push him deep into the crease.",
+"spin": "Restrict his sweep shot with full, wide lines.",
+"bat_against": "Not a regular bowler.",
+"tape": "Unorthodox finisher. Do not bowl predictable yorkers. Hit the deck hard and aim for the helmet."
+},
+"Shashank Singh": {
+"pace": "Struggles to generate power on slow, wide off-cutters dug into the pitch.",
+"spin": "Vulnerable to leg-spin turning away from his hitting arc.",
+"bat_against": "Not a regular bowler.",
+"tape": "Powerful striker. Keep the ball away from his body and utilize dipping slower balls."
+},
+"Nitish Kumar Reddy": {
+"pace": "Vulnerable to raw pace angling into his pads early in his innings.",
+"spin": "Can be beaten in flight by high-quality wrist spin.",
+"bat_against": "Medium pacer. Exploit his lack of raw pace with aggressive intent.",
+"tape": "Promising all-rounder. Test his technique with sharp incoming deliveries before he gets set."
+}
+}
